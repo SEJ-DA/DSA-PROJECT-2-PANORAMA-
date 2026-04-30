@@ -39,12 +39,7 @@ The Palmoria Group, a manufacturing company in Nigeria, is facing gender inequal
    - Salary Compliance: Identify salaries < $90,000
    - Salary Banding: In $10,000 increments, by region
 
-3. *Bonus Allocation*
-   - Apply rules from bonus_rules.csv per employee rating
-   - Calculate new total pay (salary + bonus)
-   - Aggregate payout by region and company
-
-4. *Visualization*
+3. *Visualization*
    - Bar charts: Gender ratios, ratings, pay bands
    - Boxplots: Salary distributions by gender/department
    - Heatmaps: Regional gender gap, pay gap
